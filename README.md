@@ -75,8 +75,8 @@
 ###
 
 <div align="center">
-  <a href="http://discord.com/users/1334723821927923808" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=iicanaan&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="http://discord.com/users/1392680406037430375" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=ruthlesintent&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/iicanaan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=iicanaan&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
