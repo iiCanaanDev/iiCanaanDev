@@ -15,7 +15,4 @@ Full-Stack Developer<br>Building projects, creating experiences, and turning ide
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://komarev.com/ghpvc/?username=iiCanaanDev&icon=1&color=9)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
